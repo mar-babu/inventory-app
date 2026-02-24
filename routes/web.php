@@ -5,7 +5,7 @@ use Inertia\Inertia;
 use App\Http\Controllers\ReportController;
 
 Route::get('/', function () {
-    return Inertia::render('welcome');
+    return redirect('/reports/financial');
 })->name('home');
 
 // report routes
