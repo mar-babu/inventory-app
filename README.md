@@ -76,5 +76,5 @@ Due: 1047.50 TK
 Screenshots included in `/screenshots/` folder.
 
 **Ping me for any questions**
-Email: ar_cse@yahoo.com
-Mobile: +8801681195152
+- Email: ar_cse@yahoo.com
+- Mobile: +8801681195152
